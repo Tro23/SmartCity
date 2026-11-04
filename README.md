@@ -1,7 +1,10 @@
 # Blueprint: The Locality Architecture (Project DhaaRn)
 ## Integrated Decentralized AI Systems, Silicon Topologies, and Sacred Geometries for Living Spaces
 
+**-- [Read the Companion Synopsis & Behold the Vision: *The Rhythmic City* (Substack)](https://rohittamidapati.substack.com/p/the-rhythmic-city) --**
+
 **Author / Architect:** Rohit Tamidapati - Founder | [DhaaRn](https://www.dhaarn.org) (*Devising Harmonious Alignment Aware Resonant Nexus*)  
+
 **Document Notice & Licensing:** Defensive Technical Disclosure & Architectural Blueprint. Text and architectural specifications Copyright © 2026 Rohit Tamidapati (DhaaRn), distributed under **CC BY-NC-SA 4.0**. Underlying orchestration software, cognitive frameworks, firmware, and RTL implementations ([FLOWRRA](https://github.com/Tro23/FLOWRRA) & [SŪTRAA](https://github.com/Tro23/SUTRAA)) are governed separately under a **Dual-License structure**: Open-Source Community Edition under **GNU AGPLv3**, with commercial enterprise licensing reserved exclusively by the author / DhaaRn.
 
 ## 1. Vision Statement
